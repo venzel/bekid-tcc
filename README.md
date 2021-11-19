@@ -20,6 +20,10 @@
 -   JPA / Hibernate
 -   MySQL (Docker)
 
+👉 <a href="https://github.com/venzel/bekid-backend">Link para o repositório do back-end</a>
+
 ### Front-end
 
 -   VueJs
+
+👉 <a href="https://github.com/venzel/bekid-frontend">Link para o repositório do front-end</a>
